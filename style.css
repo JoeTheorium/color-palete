@@ -1,18 +1,15 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-} */
+}
 
 body {
-  margin: 0;
   font-family: 'Red Hat Display', sans-serif;
   position: relative;
   display: grid;
   place-items: center;
   min-height: 100vh;
   font-weight: bold;
-  padding-top: 20px;
 }
 
 #palleteContainer {
