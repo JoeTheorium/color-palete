@@ -1,5 +1,4 @@
 const palleteContainer = document.getElementById('palleteContainer');
-const colorRange = document.getElementById('colorRange');
 const colorValues = ['1','2','3','4','6','7','8','9','A','B','C','D','E','F'];
 const PALLETE_SIZE = 6;
 
